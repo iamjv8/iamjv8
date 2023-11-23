@@ -1,3 +1,8 @@
+
+Hi 👋, I'm Jayesh Vekariya
+
+A passionate developer from India
+
 - 👋 Hi, I’m @iamjv8, a Full Stack Developer.
 - 👀 I’m interested in Web development, Data Engineering, Cloud Architecture.
 - 🌱 I’m currently learning FastAPI using Pythong.
