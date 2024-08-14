@@ -7,7 +7,7 @@ A passionate developer from India
 - 👀 I’m interested in Web development, Data Engineering, Cloud Architecture.
 - 🌱 I’m currently learning FastAPI using Pythong.
 - 💬 Ask me about React, NextJS, Angular, Ionic Framework, Firebase.
-- 📫 How to reach me https://iamjv8.github.io
+- 📫 More about me https://iamjv8.github.io
 
 <!---
 iamjv8/iamjv8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
